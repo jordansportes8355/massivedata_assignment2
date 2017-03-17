@@ -1,0 +1,1 @@
+/tmp/hadoop-cloudera/mapred/local/1489756666132/pg100.txt
